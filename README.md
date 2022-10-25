@@ -1,6 +1,6 @@
 ### Hi! I'm Elberte!
 
-- 🌱 I’m currently learning Swift and Kotlin
+- 🌱 I’m currently learning Kotlin
 - 🤔 I started to study and programming in Nov/2021
 - 📫 How to reach me: contato@elberte.com
 
