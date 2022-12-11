@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin
 - 🤔 I started to study and programming in Nov/2021
+- 💻 My web portfolio: elberte.com
 - 📫 How to reach me: contato@elberte.com
 
 ##
