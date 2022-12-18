@@ -24,6 +24,7 @@
 ##
 
 <div> 
+  <a href="https://elberte.com" target="_blank"><img src="https://img.shields.io/badge/-Website-9013FE?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/oelberte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@elberte.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
