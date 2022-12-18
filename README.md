@@ -1,11 +1,11 @@
-### Hi! I'm Elberte!
+## Hi! I'm Elberte!
 
 - 🌱 I’m currently learning Kotlin
 - 🤔 I started to study and programming in Nov/2021
 - 💻 Web portfolio: [elberte.com](https://elberte.com)
 - 📫 How to reach me: contato@elberte.com
 
-##
+## Mobile developer
 
 <div>
   <a href="https://github.com/oElberte">
