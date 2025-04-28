@@ -7,14 +7,10 @@
 
 ## Mobile developer
 
-<div style="display: inline-block; border-radius: 50px;">
+<div style="display: inline-block;">
   <a href="https://github.com/oElberte">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oElberte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oElberte&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-
-  <a  href="https://www.credly.com/badges/1f22ad36-94f9-46fa-84ed-fd98a43b91fb/public_url">
-    <img align="right" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150" alt="AWS Certified Cloud Practitioner">
   </a>
 </div>
 
@@ -54,8 +50,10 @@
   <img align="center" alt="Elberte-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
   <img align="center" alt="Elberte-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
-          
-  <img align="right" alt="Elberte-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/474x/e0/48/ee/e048ee9b953a549e8285f53a0a329e61.jpg">
+  
+  <a href="https://www.credly.com/badges/1f22ad36-94f9-46fa-84ed-fd98a43b91fb/public_url">
+    <img align="right" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150" style="border-radius:50px;" alt="AWS Certified Cloud Practitioner">
+  </a>
 </div>
 
 ##
