@@ -1,7 +1,7 @@
 ## Hi! I'm Elberte!
 
 - 🌱 I’m currently learning Go
-- 🤔 I started to study and programming in Nov/2021
+- 🤔 Software Engineer with over 4 years of experience
 - 💻 Web portfolio: [elberte.com](https://elberte.com)
 - 📫 How to reach me: elberte.dev@gmail.com
 
