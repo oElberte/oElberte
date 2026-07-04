@@ -1,64 +1,23 @@
-## Hi! I'm Elberte!
+### Hi, I'm Elberte — Flutter specialist & AI engineer.
 
-- 🤔 Sênior Software Engineer
-- 💻 Web portfolio: [elberte.com](https://elberte.com)
-- 📫 How to reach me: elberte.dev@gmail.com
+Founder of **[Pickforge Studio](https://pickforge.dev)** — local-first instruments for people who ship. I ship high-scale Flutter apps by day and build the tools agents use to run, see, and test real apps by night.
 
-## Mobile developer
+Local-first. Open source. Built for people who ship.
 
-<div style="display: inline-block;">
-  <a href="https://github.com/oElberte">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oElberte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oElberte&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+**Reach me:** [elberte.com](https://elberte.com) · [X](https://x.com/ElbertePlinio) · [LinkedIn](https://linkedin.com/in/oelberte) · YouTube (soon) · elberte.dev@gmail.com
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Elberte-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+### Pickforge Studio
 
-  <img align="center" alt="Elberte-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+- **[PickForge](https://github.com/pickforge/pickforge)** — Point at an element. Ship the fix. An IDE for agents to run, inspect, and edit apps across Flutter, React Native, Android, and web.
+- **[PickLab](https://github.com/pickforge/picklab)** — Playwright, for native apps. Native-app and Android-emulator automation for AI coding agents (CLI + MCP).
+- **[PickScribe](https://github.com/pickforge/pickscribe)** — Speak. It types. Local Linux dictation with AI cleanup.
+- **[PickGauge](https://github.com/pickforge/pickgauge)** — A fuel gauge for AI subscriptions. Tracks Codex and Claude Code usage from the tray, privacy-first.
+- **[PickArena](https://github.com/pickforge/pickarena)** — Benchmarks on real Flutter work. Dart & Flutter benchmark arena. *(coming soon)*
+- **[multi-claude](https://github.com/pickforge/multi-claude)** — Run Claude Code against alternative backends — Kimi (Moonshot), local Ollama, or any Anthropic-compatible endpoint.
 
-  <img align="center" alt="Elberte-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  
-  <img align="center" alt="Elberte-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  
-  <img align="center" alt="Elberte-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+> PickForge builds the app. PickLab lets agents see, run, and test it. PickArena measures the results.
 
-  <img align="center" alt="Elberte-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+### Elsewhere
 
-  <img align="center" alt="Elberte-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  
-  <img align="center" alt="Elberte-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-
-  <img align="center" alt="Elberte-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  
-  <img align="center" alt="Elberte-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-  <img align="center" alt="Elberte-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-  <img align="center" alt="Elberte-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-
-  <img align="center" alt="Elberte-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-
-  <img align="center" alt="Elberte-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-          
-  <img align="center" alt="Elberte-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          
-  <img align="center" alt="Elberte-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-
-  <img align="center" alt="Elberte-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-  <img align="center" alt="Elberte-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
-  
-  <a href="https://www.credly.com/badges/1f22ad36-94f9-46fa-84ed-fd98a43b91fb/public_url">
-    <img align="right" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150" style="border-radius:50px;" alt="AWS Certified Cloud Practitioner">
-  </a>
-</div>
-
-##
-
-<div style="display: inline-block"> 
-  <a href="https://elberte.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-7c3aed?style=for-the-badge&logo=svelte&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oelberte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=INSPIRE&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elberte.dev@gmail.com"><img src="https://img.shields.io/badge/-Mail-cd3b2f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+- **[elberte.com](https://elberte.com)** — Portfolio. Flutter at production scale, LLM features, native platform integrations.
+- **[dotfiles](https://github.com/oElberte/dotfiles)** — Personal dev environment configs.
