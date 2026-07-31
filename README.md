@@ -4,7 +4,7 @@ Founder of **[Pickforge Studio](https://pickforge.dev)** — local-first instrum
 
 Local-first. Open source. Built for people who ship.
 
-**Reach me:** [elberte.com](https://elberte.com) · [X](https://x.com/ElbertePlinio) · [LinkedIn](https://linkedin.com/in/oelberte) · YouTube (soon) · elberte.dev@gmail.com
+**Reach me:** [elberte.com](https://elberte.com) · [X](https://x.com/ElbertePlinio) · [LinkedIn](https://linkedin.com/in/ElbertePlinio) · YouTube (soon) · elberte.dev@gmail.com
 
 ### Pickforge Studio
 
@@ -20,4 +20,4 @@ Local-first. Open source. Built for people who ship.
 ### Elsewhere
 
 - **[elberte.com](https://elberte.com)** — Portfolio. Flutter at production scale, LLM features, native platform integrations.
-- **[dotfiles](https://github.com/oElberte/dotfiles)** — Personal dev environment configs.
+- **[dotfiles](https://github.com/ElbertePlinio/dotfiles)** — Personal dev environment configs.
